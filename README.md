@@ -91,6 +91,13 @@ ropsten: {
      },
  ```
  
+### Using OpenZippelin package
+ERC20 token can be created using OpenZippelin package
+```
+	npm init -y
+	npm install @openzeppelin/contracts --save
+```
+
 ## Deploying the contract
 1. Start local blockchain using ganache
 ```
