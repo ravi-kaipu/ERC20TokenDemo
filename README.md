@@ -1,7 +1,7 @@
 # ERC20TokenDemo
 
 ## ERC20
-ERC20 introduces a standard for Fungible Tokens. For example, an ERC20 Token acts just like the ETH, meaning that 1 Token is and will always be equal to all the other Tokens. [ ERC20 Standards](https://eips.ethereum.org/EIPS/eip-20).
+ERC20 introduces a standard for Fungible Tokens. For example, an ERC20 Token acts just like the ETH, so you can convert it into other crypto currencies. [ ERC20 Standards](https://eips.ethereum.org/EIPS/eip-20).
 
 
 
@@ -42,8 +42,8 @@ event Approval(address indexed _owner, address indexed _spender, uint256 _value)
 ## Implmentation
 
 There are two ways to implement the ERC20 token standards.
-1. One way is to implement code in your own way
-2. Implemnt the code using @openzeppelin framework
+1. One way is to implement the code on your own.
+2. Implement the code using @openzeppelin framework
 
 
 ## Setting up the environment
@@ -55,7 +55,7 @@ npm install ganache-cli --save
 truffle init
 ```
 
-Aftr `truffle init`, following files and directories will be created.
+After `truffle init`, following files and directories will be created.
 ```
 - contracts
 - migrations
