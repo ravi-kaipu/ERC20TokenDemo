@@ -39,7 +39,7 @@ event Approval(address indexed _owner, address indexed _spender, uint256 _value)
 
 
 
-## Implmentation
+## Implementation
 
 There are two ways to implement the ERC20 token standards.
 1. One way is to implement the code on your own.
