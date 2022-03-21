@@ -1,7 +1,7 @@
 # ERC20TokenDemo
 
 ## ERC20
-ERC20 introduces a standard for Fungible Tokens. For example, an ERC20 Token acts just like the ETH, so you can convert it into other crypto currencies. [ ERC20 Standards](https://eips.ethereum.org/EIPS/eip-20).
+ERC20 introduces a standard for Fungible Tokens. An ERC20 Token acts just like the ETH, so you can convert it into other crypto currencies. [ ERC20 Standards](https://eips.ethereum.org/EIPS/eip-20).
 
 
 
